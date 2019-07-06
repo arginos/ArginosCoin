@@ -1,0 +1,14 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Small blockchain prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Argin Simonian",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^6.10.0"
+  }
+}
